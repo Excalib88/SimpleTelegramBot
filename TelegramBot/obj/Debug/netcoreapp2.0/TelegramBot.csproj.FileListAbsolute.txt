@@ -9,3 +9,14 @@ C:\Users\rave9\source\repos\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\Tele
 C:\Users\rave9\source\repos\TelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.pdb
 C:\Users\rave9\source\repos\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.dll
 C:\Users\rave9\source\repos\TelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.pdb
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.deps.json
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.runtimeconfig.json
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.runtimeconfig.dev.json
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.dll
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.pdb
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.csprojAssemblyReference.cache
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.AssemblyInfo.cs
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.dll
+C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.pdb

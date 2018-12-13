@@ -50,13 +50,13 @@ namespace TelegramBot
                     {
                         new [] // first row
                         {
-                            InlineKeyboardButton.WithCallbackData("1.1"),
-                            InlineKeyboardButton.WithCallbackData("1.2"),
+                            InlineKeyboardButton.WithCallbackData("First"),
+                            InlineKeyboardButton.WithCallbackData("Second"),
                         },
                         new [] // second row
                         {
-                            InlineKeyboardButton.WithCallbackData("2.1"),
-                            InlineKeyboardButton.WithCallbackData("2.2"),
+                            InlineKeyboardButton.WithCallbackData("First"),
+                            InlineKeyboardButton.WithCallbackData("Second"),
                         }
                     });
 
@@ -70,31 +70,14 @@ namespace TelegramBot
                 case "/keyboard":
                     ReplyKeyboardMarkup ReplyKeyboard = new[]
                     {
-                        new[] { "1.1", "1.2" },
-                        new[] { "2.1", "2.2" },
+                        new[] { "First", "Second" },
+                        new[] { "First", "Second" },
                     };
 
                     await Bot.SendTextMessageAsync(
                         message.Chat.Id,
                         "Choose",
                         replyMarkup: ReplyKeyboard);
-                    break;
-
-                // send a photo
-                case "/photo":
-                    await Bot.SendChatActionAsync(message.Chat.Id, ChatAction.UploadPhoto);
-
-                    const string file = @"Files/tux.png";
-
-                    var fileName = file.Split(Path.DirectorySeparatorChar).Last();
-
-                    using (var fileStream = new FileStream(file, FileMode.Open, FileAccess.Read, FileShare.Read))
-                    {
-                        await Bot.SendPhotoAsync(
-                            message.Chat.Id,
-                            fileStream,
-                            "Nice Picture");
-                    }
                     break;
 
                 // request location or contact

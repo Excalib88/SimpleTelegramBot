@@ -99,7 +99,6 @@ namespace TelegramBot
 Usage:
 /inline   - send inline keyboard
 /keyboard - send custom keyboard
-/photo    - send a photo
 /request  - request location or contact";
 
                     await Bot.SendTextMessageAsync(

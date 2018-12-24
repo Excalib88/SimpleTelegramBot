@@ -118,7 +118,8 @@ namespace TelegramBot
 Usage:
 /inline   - send inline keyboard
 /keyboard - send custom keyboard
-/request  - request location or contact";
+/request  - request location or contact
+/subscribe - add to db datas";
 
                     await Bot.SendTextMessageAsync(
                         message.Chat.Id,

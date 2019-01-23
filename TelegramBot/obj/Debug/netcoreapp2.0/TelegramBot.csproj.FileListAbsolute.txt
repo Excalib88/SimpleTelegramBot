@@ -20,3 +20,14 @@ C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\Tel
 C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.AssemblyInfo.cs
 C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.dll
 C:\Users\rave9\Desktop\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.pdb
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.csprojAssemblyReference.cache
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.AssemblyInfoInputs.cache
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.AssemblyInfo.cs
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.dll
+C:\Projects\SimpleTelegramBot\TelegramBot\obj\Debug\netcoreapp2.0\TelegramBot.pdb
+C:\Projects\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.deps.json
+C:\Projects\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.runtimeconfig.json
+C:\Projects\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.runtimeconfig.dev.json
+C:\Projects\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.dll
+C:\Projects\SimpleTelegramBot\TelegramBot\bin\Debug\netcoreapp2.0\TelegramBot.pdb

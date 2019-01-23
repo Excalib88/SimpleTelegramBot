@@ -1,5 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
@@ -94,25 +93,7 @@ namespace TelegramBot
                         "Who or Where are you?",
                         replyMarkup: RequestReplyKeyboard);
                     break;
-                case "/subscribe":
-                    {
-                        using (var db = new UserContext())
-                        {
-                            db.Database.Migrate();
-
-                            var user = new User();
-                            user.Id = 0;
-                            user.Name = message.Chat.Id.ToString();
-                            user.ChatId = message.Chat.Id;
-
-                            db.SaveChanges();
-                        }
-
-                        await Bot.SendTextMessageAsync(
-                                                message.Chat.Id,
-                                                "Вы успешно подписались!");
-                        break;
-                    }
+                
                 default:
                     const string usage = @"
 Usage:
